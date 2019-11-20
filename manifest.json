@@ -4,6 +4,8 @@
     "start_url": "index.html",
     "background_color": "#3498db",
     "display": "standalone",
+    "theme_color": "#3498db",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
